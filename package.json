@@ -1,0 +1,32 @@
+{
+  "name": "fe-heroes",
+  "version": "0.0.0",
+  "description": "Retrieve heroes from Fire Emblem Heroes",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint __tests__ index.js",
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "fire emblem",
+    "heroes",
+    "fireemblem",
+    "fe heroes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vutran/fe-heroes.git"
+  },
+  "author": "Vu Tran <vu@vu-tran.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^18.0.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "coveralls": "^2.11.16",
+    "eslint": "^3.16.0",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "jest": "^18.1.0"
+  }
+}
