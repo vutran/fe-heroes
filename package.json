@@ -1,6 +1,6 @@
 {
   "name": "fe-heroes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Retrieve heroes from Fire Emblem Heroes",
   "main": "index.js",
   "scripts": {
