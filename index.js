@@ -102,6 +102,10 @@ function getAll() {
             title: 'Army of One',
         },
         {
+            name: 'Eldigan',
+            title: 'Lionheart',
+        },
+        {
             name: 'Elise',
             title: 'Budding Flower',
         },
@@ -202,6 +206,14 @@ function getAll() {
             title: 'Honorable Ninja',
         },
         {
+            name: 'Klein',
+            title: 'Silver Nobleman',
+        },
+        {
+            name: 'Lachesis',
+            title: 'Lionheart\'s Sister',
+        },
+        {
             name: 'Laslow',
             title: 'Dancing Duelist',
         },
@@ -290,6 +302,10 @@ function getAll() {
             title: 'Loyal Blade',
         },
         {
+            name: 'Olwen',
+            title: 'Blue Mage Knight',
+        },
+        {
             name: 'Olivia',
             title: 'Blushing Beauty',
         },
@@ -308,6 +324,10 @@ function getAll() {
         {
             name: 'Raven',
             title: 'Peerless Fighter',
+        },
+        {
+            name: 'Reinhardt',
+            title: 'Thunder\'s Fist',
         },
         {
             name: 'Robin (F)',
@@ -332,6 +352,10 @@ function getAll() {
         {
             name: 'Sakura',
             title: 'Loving Priestess',
+        },
+        {
+            name: 'Sanaki',
+            title: 'Begnion\'s Apostle',
         },
         {
             name: 'Selena',
